@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript Basics
 
 ## assignment
 
@@ -49,6 +49,8 @@
    **Reviewing and Refining Proposals** – Features go through a **5-stage process** before being added to the ECMAScript standard.
    **Publishing ECMAScript Versions** – They release new versions of ECMAScript (e.g., ES6, ES7, etc.).
    **Maintaining Compatibility** – Ensuring backward compatibility and improving performance.
+
+# JavaScript Data Types
 
 7. Name different data types in JavaScript
 
